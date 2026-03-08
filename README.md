@@ -13,3 +13,4 @@ Click the YELLOW (minimize) button on the error windows to move them out of the 
 DO NOT click the red "X" or "OK", or the whole app will close.
 Result:
 Your Home Screen is now active and error-free. Enjoy Minecraft on your legacy machine!
+"⚠️ Warning: This bypass might not work on very old versions of TL Legacy. Please download the version from this repository to make sure the Home Screen loads behind the error window!"     
