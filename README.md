@@ -18,4 +18,6 @@ Tested and working with Java 17 this windows hack is work to download to not cra
   <img width="1920" height="1080" alt="Näyttökuva 2026-3-9 kello 14 03 32" src="https://github.com/user-attachments/assets/51bf5430-533e-440a-a5ec-3f0efa20ef0d" />
 <img width="1920" height="1080" alt="Näyttökuva 2026-3-9 kello 14 10 00" src="https://github.com/user-attachments/assets/bbbc8afe-9e2d-48ea-9317-aeb8f5447229" />
 
-"Yellow Button Bypass" is an original method and trademarked term created by ggkeiverggkeiver-ux. Any unauthorized use, copying of instructions, or impersonation of this method by third-party sites (such as
+   ⚖️ Intellectual Property Notice
+"Yellow Button Bypass" is an original method and trademarked term created by ggkeiverggkeiver-ux. Any unauthorized use, copying of instructions, or impersonation of this method by third-party sites (such as tlauncher.org) will be immediately reported to Google Safe Browsing and DMCA authorities.
+Original discovery date: March 9, 2026.
