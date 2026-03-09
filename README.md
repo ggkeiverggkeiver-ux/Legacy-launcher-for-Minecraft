@@ -14,5 +14,5 @@ DO NOT click the red "X" or "OK", or the whole app will close.
 Result:
 Your Home Screen is now active and error-free. Enjoy Minecraft on your legacy machine!
 "⚠️ Warning: This bypass might not work on very old versions of TL Legacy. Please download the version from this repository to make sure the Home Screen loads behind the error window!"     
-Tested and working with Java 17
+Tested and working with Java 17 this windows hack is work to download to not cracked not edited .jar
 <img width="1920" height="1080" alt="Näyttökuva 2026-3-9 kello 7 34 46" src="https://github.com/user-attachments/assets/1b112a6a-d3f5-4fcd-b567-334682507947" />
