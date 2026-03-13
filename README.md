@@ -17,4 +17,7 @@ Tested and working with Java 17 this windows hack is work to download to not cra
 
    ⚖️ Intellectual Property Notice
 "Yellow Button Bypass" is an original method and trademarked term created by ggkeiverggkeiver-ux. Any unauthorized use, copying of instructions, or impersonation of this method by third-party sites (such as tlauncher.org) will be immediately reported to Google Safe Browsing and DMCA authorities.
-Original discovery date: March 9, 2026.             "If you want to avoid error windows entirely, use the .jar version from v2.0. If you use the .exe or .dmg from v1.0, use the Yellow Button Bypass method."
+Original discovery date: March 9, 2026.             "If you want to avoid error windows entirely, use the .jar version from v2.0. If you use the .exe or .dmg from v1.0, use the Yellow Button Bypass method." 
+  ПРАВДА О TLAUNCHER
+TLauncher.org НЕ ЯВЛЯЕТСЯ ОРИГИНАЛЬНЫМ TLAUNCHER. Это поддельный ресурс, распространяющий вредоносное и шпионское ПО.
+Корни оригинального Legacy Launcher (TLauncher) связаны с tlauncher.net
