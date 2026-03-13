@@ -1,17 +1,14 @@
-🛠️ HOW TO BYPASS "CANNOT START LAUNCHER" ERROR (Legacy Fix)
-Most people think the launcher is dead because of the connection errors. They are wrong. Follow these steps to bypass the block:
-The Desktop Trick:
-DO NOT put the .jar file in /usr/local/bin or hidden folders. It will fail.
-Place the LegacyLauncher.jar directly on your DESKTOP.
-The Installation:
-Run the .app (Mac) or .exe (Windows) installer from the Desktop.
-The Window Hack:
-Two error windows will pop up saying "Cannot start the launcher". DO NOT CLOSE THEM.
-Look closely: The actual Home Screen has already loaded behind the error windows.
-The Yellow Button Bypass:
-Click the YELLOW (minimize) button on the error windows to move them out of the way.
-DO NOT click the red "X" or "OK", or the whole app will close.
-Result:
+🛠️ КАК ОБХОДИТЬ ОШИБКУ "CANNOT START LAUNCHER" (Legacy Fix)
+Многие думают, что лаунчер больше не работает из-за ошибок подключения. Они ошибаются. Следуйте этим шагам, чтобы обойти блокировку:
+Трюк с Рабочим столом: НЕ кладите файл .jar в /usr/local/bin или скрытые папки. Это приведет к ошибке. Поместите LegacyLauncher.jar прямо на ваш РАБОЧИЙ СТОЛ.
+Установка: Запустите установщик .app (Mac) или .exe (Windows) прямо с Рабочего стола.
+Оконный хак (Window Hack): Появятся два окна с ошибкой "Cannot start the launcher". НЕ ЗАКРЫВАЙТЕ ИХ.
+Смотрите внимательнее: Основной экран (Home Screen) уже загрузился ПОЗАДИ окон с ошибками.
+Обход через желтую кнопку: Нажмите ЖЕЛТУЮ кнопку (свернуть) на окнах с ошибками, чтобы убрать их с пути. НЕ нажимайте красный крестик "X" или "OK", иначе всё приложение закроется.
+Результат: Ваш лаунчер активен и работает без ошибок. Наслаждайтесь Minecraft на вашем старом устройстве!
+⚠️ Внимание: Этот обход может не работать на очень старых версиях TL Legacy. Пожалуйста, скачайте версию из этого репозитория, чтобы основной экран точно загрузился за окном ошибки!
+Проверено и работает с Java 17. Этот хак работает с оригинальным (не взломанным и не редактированным) .jar файлом. Также протестировано на macOS Ventura — всё работает!
+
 Your Home Screen is now active and error-free. Enjoy Minecraft on your legacy machine!
 "⚠️ Warning: This bypass might not work on very old versions of TL Legacy. Please download the version from this repository to make sure the Home Screen loads behind the error window!"     
 Tested and working with Java 17 this windows hack is work to download to not cracked not edited .jar and tested to macOS ventura is work to the macOS ventura 
